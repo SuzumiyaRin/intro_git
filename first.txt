@@ -1,2 +1,4 @@
 gitの練習をしていきます
 キホンテキナワークフロー
+.git add
+.git commit
